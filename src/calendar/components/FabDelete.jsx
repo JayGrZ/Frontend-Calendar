@@ -19,10 +19,6 @@ export const FabDelete = () => {
     >
         <i className="fas fa-trash-alt"></i>
 
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
 
     </button>
   )
