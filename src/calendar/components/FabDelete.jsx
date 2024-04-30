@@ -18,8 +18,11 @@ export const FabDelete = () => {
         }}
     >
         <i className="fas fa-trash-alt"></i>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of a772737 (Segundo commit)
     </button>
   )
 }
