@@ -65,7 +65,7 @@ export const CalendarModal = () => {
     const onDateChanged = (event, changing) => {
         setFormValues({
             ...formValues,
-            [changing]: event
+            [changing]: event,
         })
     }
 
